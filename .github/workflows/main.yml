@@ -1,4 +1,4 @@
-name: deploy LandingXYZPagesl
+name: deploy queryDBPSQLx
 
 on:
   push:
